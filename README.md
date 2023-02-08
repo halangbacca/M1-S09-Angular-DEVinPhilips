@@ -1,4 +1,4 @@
-# Exercicios
+# M1-S09-Angular-DEVinPhilips
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.0.
 
